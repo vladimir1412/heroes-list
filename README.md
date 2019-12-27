@@ -1,8 +1,8 @@
-# heroes - explored `https://superheroapi.com/` and vuetify css framework
+# heroes app - explored `https://superheroapi.com/` and vuetify css framework
 
 README
 
-## Packege install
+## Package install
 
 npm install
 
